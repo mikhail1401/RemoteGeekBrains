@@ -3,7 +3,7 @@
 2. Create local repository.
 3. Create remote repository.
 4. Connect local and remote repositories.
-Addddd remote repository to the project:
+Add remote repository to the project:
 ```
 git remote add <remote_repository_name> <URL>
 ```
