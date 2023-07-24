@@ -7,7 +7,6 @@ Add remote repository to the project:
 ```
 git remote add <remote_repository_name> <URL>
 ```
-To get and merge changes from remote rrepository:    Creating a conflict here
 ```
 git pull <remote_repository_name> <remote_branch_name>
 git pull
