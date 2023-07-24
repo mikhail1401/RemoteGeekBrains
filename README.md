@@ -12,4 +12,3 @@ To get and merge changes from remote repository:
 git pull <remote_repository_name> <remote_branch_name>
 git pull
 ```
-Creating a conflict
